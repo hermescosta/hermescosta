@@ -37,7 +37,7 @@ Ao longo dessa trajetória, participei ativamente do planejamento, execução e 
 
 ## 🧪 Experiências
 
-**EJEST – Empresa Júnior de Estatística (2022–2024)**  
+**EJEST – Presidente - Empresa Júnior de Estatística (2022–2024)**  
 > Atuação em projetos estatísticos, com foco em coleta, análise e apresentação de resultados para clientes.  
 > Participação em cargos de liderança e áreas como projetos, vendas e presidência.
 
