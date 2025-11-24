@@ -3,7 +3,7 @@
 🎓 Estudante de Estatística na FCT/UNESP (8º período)  
 📍 Presidente Prudente – SP  
 📊 Apaixonado por análise de dados, modelagem estatística e liderança  
-🚀 Buscando oportunidades de estágio na área de Estatística ou Análise de Dados
+🚀 Buscando oportunidades na área de Estatística e Análise de Dados
 
 ---
 
@@ -29,9 +29,9 @@ Ao longo dessa trajetória, participei ativamente do planejamento, execução e 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **TCC em andamento** | Regressão logística aplicada à predição do mercado de ações | R |
-| **Análise de Séries Temporais (RBras 2023)** | Estudo estatístico em dados financeiros reais | R |
-| **Projetos na EJEST** | Execução de consultorias estatísticas para empresas reais | R, Excel, Python |
+
+| **Análise de Portifólio (RBras 2023)** | Estudo estatístico em dados financeiros reais | R |
+| **Projetos na EJEST** | Execução de consultorias estatísticas para empresas reais, e pessoas físicas | R, Excel, Python |
 
 ---
 
