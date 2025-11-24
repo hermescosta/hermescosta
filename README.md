@@ -27,11 +27,11 @@ Ao longo dessa trajetória, participei ativamente do planejamento, execução e 
 
 ## 📊 Projetos
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
+| Projeto                             | Descrição                                                | Tecnologias       |
+|-------------------------------------|----------------------------------------------------------|-------------------|
+| **Análise de Portfólio (RBras 2023)** | Estudo estatístico em dados financeiros reais            | R                 |
+| **Projetos na EJEST**               | Consultorias estatísticas para empresas e pessoas físicas | R, Excel, Python  |
 
-| **Análise de Portifólio (RBras 2023)** | Estudo estatístico em dados financeiros reais | R |
-| **Projetos na EJEST** | Execução de consultorias estatísticas para empresas reais, e pessoas físicas | R, Excel, Python |
 
 ---
 
